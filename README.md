@@ -15,6 +15,11 @@ _通过临时邮箱实现Cursor Pro功能无限试用的自动化工具_
 ### 环境要求
 - Windows 10+ 
 
+### 运行界面
+![image](./screenshot/01.png)
+![image](./screenshot/02.png)
+
+
 ### 快速开始
 (下载地址)[https://github.com/VkRainB/Cursor-TempMail-Helper/releases]
 
