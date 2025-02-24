@@ -1,5 +1,5 @@
 # Cursor-TempMail-Helper 🔄📧
-_通过临时邮箱实现Cursor Pro功能无限试用的自动化工具_
+_通过临时邮箱程序获取验证码，手动注册实现Cursor Pro功能无限试用_
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Release](https://img.shields.io/badge/Download-EXE-blue)](https://github.com/VkRainB/Cursor-TempMail-Helper/releases)
